@@ -3,7 +3,7 @@
 A 64-bit Windows 10/11 usermode application written in C++ that acts as a KeyAuth-authenticated loader and panel launcher, wrapped in a modern ImGui-based GUI with multi-layer anti-analysis protection.
 
 > [!NOTE]
-> **Project Origin & Attribution**: This source code was self-leaked by the original author (ego / @humbleness on Discord) for educational purposes. Please do not redistribute without giving credit. Original project site: https://e-z.bio/%C2%A3
+> **Project Origin & Attribution**: This source code was self-leaked by the original author (ego / @humbleness on Discord) for educational purposes. Please do not redistribute without giving credit. Original project site: https://scenecore.life/ego
 
 > [!WARNING]
 > This application interacts with sensitive system areas and embeds bypass and driver binaries as inline byte arrays. It is intended for educational and security research purposes only.
